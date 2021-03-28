@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+body{
+	margin:0;
+	padding:0;
+	height:100vh;
+	background-image:url("https://cdn.wallpapersafari.com/46/60/bkjBVG.jpg");
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	color: black;
+}
+.add-tour 
+{
+	
+	width:300px;  
+	box-shadow:0 0 3px 0 rgb(0,0,0,0.3);
+	 background-color:white;
+	padding:20px;
+	margin:8% auto 0;
+	text-align:center;
+}
+.input-box{
+	border-radius: 20px;
+	padding: 10px;
+	margin: 1%;
+	border: 1px solid #999;
+	outline: none;
+	
+}
+.add-tour-btn{
+	background-color:white;
+}
